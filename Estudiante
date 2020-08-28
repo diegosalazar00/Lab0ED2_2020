@@ -1,0 +1,11 @@
+{
+	"carne": 1099817
+	"promedio": 90
+	"matricula": true,
+	"cursos_asignados": [
+	"Estructura de datos 2",
+	"manejo e implementacion de archivos",
+	"probabilidad y estadistica",
+	"calculo 2"
+	]
+}

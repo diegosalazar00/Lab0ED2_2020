@@ -1,0 +1,44 @@
+{
+	"Facultades": [
+	"Ingeniería",
+	"Humanidades",
+	"Arquitectura y diseño",
+	"Económicas y empresariales",
+	"Políticas y sociales",
+	"Ambientales y agrícolas",
+	"Ciencias de la salud",
+	"Ciencias jurídicas y sociales",
+	"Teología"
+	]
+	"Ubicación": "Vista Hermosa III, zona 16 Guatemala, Centroamérica 01016",
+	"Reconocimientos": "varios",
+	"Carreras": [
+	"Ingeniería en Informática y Sistemas",
+	"Ingeniería civil",
+	"Ingeniería civil administrativa",
+	"Ingeniería química",
+	"Ingeniería química industrial",
+	"Ingenieria en industria de alimentos",
+	"Ingeniería mecánica",
+	"Ingeniería química industrial",
+	"Ingeniería industrial y de sistemas",
+	"Ingeniería Industrial",
+	"Ingeniería en electrónica y telecomunicaciones",
+	]
+	"Edificios": [
+	"Edificio tec",
+	"edificio A",
+	"edificio b",
+	"edificio c",
+	"edificio d",
+	"edificio g",
+	"edificio h",
+	"edificio i",
+	"edificio j",
+	"edificio l",
+	"edificio m",
+	"edificio o",
+	"edificio p",
+	"edificio q"
+	]
+}
